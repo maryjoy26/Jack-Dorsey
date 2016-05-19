@@ -1,0 +1,39 @@
+body {
+	background-color:#002966;
+    font-family: Helvetica Neue, Arial;
+	Color: #cce0ff;
+	}
+	
+ {
+  margin: 0;
+  padding: 0;
+  background: #002966;
+}
+
+.nav ul {
+  list-style: none;
+  background-color: #002966;
+ 
+  width: 90px;
+  padding: 0;
+  margin: 0;
+}
+
+.nav li {
+  font-size: 2em;
+  line-height: 40px;
+ 
+}
+
+.nav a {
+  text-decoration:none;
+  color: #cce0ff;
+  display: block;
+  border-bottom: 4px #888;
+  transition: .3s background-color;
+}
+
+.nav a:hover {
+	
+  background-color:#005ce6;
+}
